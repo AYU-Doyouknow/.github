@@ -20,7 +20,7 @@
 <br>
 
 ## **[ 멤버 소개 ]**
-| Github | [<img src="https://avatars.githubusercontent.com/dongyeop00" width="130px;">](https://github.com/dongyeop00) | [<img src="https://avatars.githubusercontent.com/jeonggugo" width="130px;">](https://github.com/jeonggugo) | [<img src="https://avatars.githubusercontent.com/leeminjxun" width="130px;">](https://github.com/leeminjxun) | [<img src="https://avatars.githubusercontent.com/eunbyeol" width="130px;">](https://github.com/eunbyeol) | [<img src="https://avatars.githubusercontent.com/joonwoong2" width="130px;">](https://github.com/joonwoong2) |
+| Github | [<img src="https://avatars.githubusercontent.com/dongyeop00" width="130px;">](https://github.com/dongyeop00) | [<img src="https://avatars.githubusercontent.com/jeonggugo" width="130px;">](https://github.com/jeonggugo) | [<img src="https://avatars.githubusercontent.com/leeminjxun" width="130px;">](https://github.com/leeminjxun) | [<img src="https://avatars.githubusercontent.com/shuyomi" width="130px;">](https://github.com/shuyomi) | [<img src="https://avatars.githubusercontent.com/joonwoong2" width="130px;">](https://github.com/joonwoong2) |
 |---|---|---|---|---|---|
 | 이름 | 구동엽 | 고정국 | 이민준 | 배은별 | 문준웅 |
 | 담당 | 팀장 | BackEnd | BackEnd | Front | Crawling |
